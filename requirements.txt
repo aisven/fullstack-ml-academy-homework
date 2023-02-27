@@ -15,6 +15,7 @@ importlib-resources
 ipykernel
 ipython
 jedi
+jinja2
 joblib
 jupyter_client
 jupyter_core
@@ -32,6 +33,7 @@ pexpect
 pickleshare
 Pillow
 platformdirs
+ppscore
 prompt-toolkit
 psutil
 ptyprocess
