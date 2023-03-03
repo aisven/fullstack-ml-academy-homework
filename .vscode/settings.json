@@ -1,5 +1,6 @@
 {
   "python.formatting.blackPath": "${workspaceFolder}/.venv/bin/black",
+  "editor.autoClosingBrackets": "never",
   "editor.formatOnSave": true,
   "editor.formatOnPaste": true,
   "editor.autoIndent": "advanced",
