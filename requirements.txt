@@ -49,6 +49,9 @@ six
 stack-data
 threadpoolctl
 tomli
+torch
+torchvision
+torchaudio
 tornado
 traitlets
 typing_extensions
