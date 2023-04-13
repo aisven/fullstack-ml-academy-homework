@@ -5,9 +5,20 @@ This project contains some Jupyter Notebooks and other code as part of homework.
 Topics include:
 
 * Exploratory Data Analysis
+* Correlation vs. Causation
+* Confusion Matrix, Sensitivity & Specificity, ...
+* Dimensionality Reduction, Principal Component Analysis
+* t-distributed Stochastic Neighbor Embedding (t-SNE)
+* Auto Encoders & Embeddings
 * Gradient Descent
+* Loss Functions
+* Optimizers
 * Perceptron
-* Artificial Neural Networks
+* Artificial Neural Networks (FFNN, CNN, RNN, ...)
+* Classification
+* Regression
+* Hyperparameter Optimization
+* Time Series Forecasting using LSTM RNN
 
 ## Setup
 
