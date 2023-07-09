@@ -20,6 +20,10 @@ Topics include:
 * Hyperparameter Optimization
 * Time Series Forecasting using LSTM RNN
 
+## Disclaimer regarding the code
+
+The code has been written in a relatively verbose free style for studying purposes. It is not production-ready and it is not to be regarded as research-related or blog-article code. Inline comments have been written to verbosely describe aspects that came up during coding. Assertions have been added to confirm certain conditions along the way.
+
 ## Setup
 
 This section describes the usual setup procedures as conceived by the academy. However, this project can be setup and used in different ways if desired.
