@@ -1,5 +1,4 @@
 {
-  "python.formatting.blackPath": "${workspaceFolder}/.venv/bin/black",
   "editor.autoClosingBrackets": "never",
   "editor.formatOnSave": true,
   "editor.formatOnPaste": true,
@@ -9,20 +8,11 @@
   ],
   "files.trimTrailingWhitespace": true,
   "files.insertFinalNewline": true,
-  "python.formatting.blackArgs": [
-    "--line-length",
-    "100"
-  ],
-  "python.linting.flake8Args": [
-    "--max-line-length=100"
-  ],
   "python.autoComplete.extraPaths": [
     "${workspaceFolder}/src"
   ],
   "python.envFile": "${workspaceFolder}/.vscode/.env",
-  "python.linting.enabled": true,
   "python.terminal.activateEnvironment": true,
-  "python.formatting.provider": "black",
   "python.analysis.extraPaths": [
     "${workspaceFolder}/src"
   ],
